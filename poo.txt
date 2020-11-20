@@ -1,0 +1,9 @@
+automóvel classe, e seus modelos são o objeto, podendo ser acrescentados varios objetos como cor, ano, motor.
+Pessoa é classe, os variados nomes são objetivos, também com cor, idade, altura, peso.
+a casa é classe, estrutura da casa é objeto, como a cor, endereço, modelo, conceito.
+
+cor:Azul, Amarelo, rosa, branco, verde.
+Altura:2mtr, 1.57, 3mtr.
+Modelo:medieval, moderno, europeu.
+cidade:Campinas, valinhos, itatiba, hortolândia, sumaré.
+conceito: Aberto, fechado, 
